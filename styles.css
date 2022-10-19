@@ -1,13 +1,11 @@
 .counterButton button {
-    border: rgb(254, 0, 0) 5px solid;
-    length: 100px;
+    border: rgb(0, 0, 0) 5px solid;
     width: 100px;
+    height: 100px;
+    justify-items: center;
 }
 
 .counterButton button:hover {
     border: rgb(0, 195, 254) 5px solid;
-}
-
-.resetButton button:hover {
-    border: rgb(0, 254, 13) 5px solid;
+    justify-content: center;
 }
