@@ -1,0 +1,13 @@
+.counterButton button {
+    border: rgb(254, 0, 0) 5px solid;
+    length: 100px;
+    width: 100px;
+}
+
+.counterButton button:hover {
+    border: rgb(0, 195, 254) 5px solid;
+}
+
+.resetButton button:hover {
+    border: rgb(0, 254, 13) 5px solid;
+}
